@@ -246,9 +246,6 @@ memungkinkan pengelolaan data yang lebih efisien, cepat, dan aman. Dengan
 pendistribusian data berdasarkan lokasi cabang, sistem dapat mendukung kebutuhan
 operasional dan manajerial secara optimal.
 
-## License
 
-This project is licensed under the MIT License.
-See the LICENSE file for details.
 
 
