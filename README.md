@@ -83,13 +83,7 @@ penyimpanan data, karena sistem menyediakan transparansi distribusi data.
 ### 4.2 Physical Architecture
 Secara fisik, database didistribusikan ke beberapa server berdasarkan lokasi
 cabang perusahaan. Setiap server memiliki database MySQL sendiri.
-+----------------------+
-              |   Client / Manajemen |
-              +-----------+----------+
-                          |
-    ------------------------------------------------
-    |                     |                        |
-+---------------+ +---------------+ +---------------+
-| Server Jakarta | | Server Bandung| | Server Surabaya|
-| MySQL DB | | MySQL DB | | MySQL DB |
+![Distributed Database Architecture](architecture.png)
+
+            
 +---------------+ +---------------+ +---------------+
